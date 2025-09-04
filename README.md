@@ -34,19 +34,19 @@ El objetivo es facilitar la dinámica del juego tradicional, evitando confusione
 
 :heavy_check_mark: `4:` Limpieza automática del campo de entrada.
 
-## 🧩Juego 
+## Juego 
 
 ![Amigo-secreto-view](https://github.com/user-attachments/assets/9e577ec7-3c7c-4ead-8332-6f619988c371)
 
-## 🛠Tecnologías utilizadas
+## Tecnologías utilizadas
 - `HTML`
 - `CSS`
 - `JavaScript`
 
-## 🔗 Acesso al Proyecto
+## Acesso al Proyecto
 Puedes acceder al [codigo fuente](https://github.com/Gabs9778/challenge-amigo-secreto)
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 1. 	Clona el repositorio
 2. 	Abre el archivo `index.html` en tu navegador.
 3.  ¡Listo! Ya puedes comenzar a registrar nombres y hacer el sorteo.
