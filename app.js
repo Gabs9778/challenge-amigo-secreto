@@ -2,16 +2,23 @@ let amigos = [];
 
 //funcion para agregar nombre de amigo
 
-function agregarAmigo(){
+function agregarAmigo() {
    
     const inputAmigo = document.getElementById("amigo");
-    const nombreAmigo = inputAmigo.ariaValueMax.trim();
+    const nombreAmigo = inputAmigo.value.trim();
     
     //mensaje por campo vacio
-if (nombre === " "){
-    alert ("por favor, inserte un nombre. ");
+if (nombreAmigo === ""){
+    alert ("Por favor, inserte un nombre. ");
     return;
 }
+    //mensaje si nombre se repite
+if (amigos.includes(nombreAmigo)) {
+    alert (`El nombre ${nombreAmigo} ya esta en la lista`);
+    return;
 
 }
+
+    
+};
 
